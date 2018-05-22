@@ -2,7 +2,7 @@
 
 11th homework in the course Intro to Java Programming Language (FER).
 
-A generic simple text editor app.
+A generic simple text editor app. Written with Java Swing. 
  <p>
  The app provides basic file editing operations. Multiple files can be opened
  and edited simultaneously. Each editing operation can be accessed through
